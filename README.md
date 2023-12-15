@@ -5,4 +5,7 @@ Mod for the Tropico 6 Game, adding features to the team game component in Multip
 - no cooldown on sending money to any teammate
 
 No UI changes have been made. 
-Scripts for troop activation and cooldown effect changed. 
+Scripts for troop activation and cooldown effect changed.
+
+#### Link to mod.io
+https://mod.io/g/tropico-6/m/advanced-multiplayer-teams
